@@ -19,9 +19,9 @@
 - Passionate about **data analysis**, **machine learning**, and leveraging AI to drive impactful, data-driven decisions across diverse sectors.
 
 👨‍💻 **Technical Expertise:**
-- **Programming Languages & Tools:** Python (Pandas, NumPy, scikit-learn, TensorFlow), R, SQL, Power BI, Tableau, Docker, Git, AWS.
-- **Machine Learning & Data Science:** PyTorch, Neural Networks, Transformers, A/B Testing, Data Modeling, Cloud Computing.
-- **Visualization & Reporting:** Dash, Plotly, Seaborn, Matplotlib, Altair, Tableau.
+- Programming & Scripting: Python(Pandas, NumPy, scikit-learn, TensorFlow, Seaborn, Matplotlib, Altair), R, SQL, MongoDB, HTML/CSS
+- Data & Machine Learning: PyTorch, Neural Networks, Transformers, Hugging Face, A/B Testing, Unit Testing
+- Tools & Technologies:Plotly, Dash, Shiny, Tableau, Power BI, Git, GitHub, Docker, AWS, Apache Airﬂow, Data Modeling, Cloud Computing, Reproducibility
 
 🌱 **Hobbies:**
 - I enjoy playing tennis 🎾 and watching the NBA 🏀 and the World Cup ⚽.
