@@ -10,6 +10,9 @@
 <a href="https://github.com/iris0614" rel="nofollow noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width=20 height=auto>
 </a>
+<a href="https://iris0614.github.io/IrisLuo/" rel="nofollow noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Favicon.ico.png" alt="my_website" width=20 height=auto>
+</a>
 
 ---
 
@@ -25,6 +28,7 @@
 
 🌱 **Hobbies:**
 - I enjoy playing tennis 🎾 and watching the NBA 🏀 and the World Cup ⚽.
+- I love reading 📚, traveling ✈️, visiting museums 🖼️, and watching documentaries 🎥.
 
 ---
 
