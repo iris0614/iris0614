@@ -19,12 +19,12 @@
 🔭 **About Me:**
 - I am a **Master of Data Science** student at the **University of British Columbia** with a GPA of 4.23/4.33.
 - I hold dual Master’s degrees in **Data Science** and **Economics**, bringing together strong analytical skills and a deep understanding of economic principles.
-- Passionate about **data analysis**, **machine learning**, and leveraging AI to drive impactful, data-driven decisions across diverse sectors.
+- Passionate about **data analysis**, **machine learning**, and leveraging **AI** to drive impactful, data-driven decisions across diverse sectors.
 
 👨‍💻 **Technical Expertise:**
-- Programming & Scripting: Python(Pandas, NumPy, scikit-learn, TensorFlow, Seaborn, Matplotlib, Altair), R, SQL, MongoDB, HTML/CSS
-- Data & Machine Learning: PyTorch, Neural Networks, Transformers, Hugging Face, A/B Testing, Unit Testing
-- Tools & Technologies:Plotly, Dash, Shiny, Tableau, Power BI, Git, GitHub, Docker, AWS, Apache Airﬂow, Data Modeling, Cloud Computing, Reproducibility
+- Programming & Scripting: Python (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, Altair), R, SQL, HTML/CSS
+- Data & Machine Learning: PyTorch, TensorFlow, Hugging Face, Neural Networks, Transformers, Feature Engineering, Hyperparameter Tuning, Cross-Validation, A/B Testing, Unit Testing, Data Modeling, Reproducibility
+- Tools & Technologies: Plotly, Dash, Shiny, Tableau, Power BI, Git, GitHub, Docker, Apache Airﬂow, AWS, Cloud Computing, MongoDB, PostgreSQL, MySQL
 
 🌱 **Hobbies:**
 - I enjoy playing tennis 🎾 and watching the NBA 🏀 and the World Cup ⚽.
