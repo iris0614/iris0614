@@ -24,7 +24,7 @@
 👨‍💻 **Technical Expertise:**
 - Programming & Scripting: Python (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, Altair), R, SQL, HTML/CSS
 - Data & Machine Learning: PyTorch, TensorFlow, Hugging Face, Neural Networks, Transformers, Feature Engineering, Hyperparameter Tuning, Cross-Validation, A/B Testing, Unit Testing, Data Modeling, Reproducibility
-- Tools & Technologies: Plotly, Dash, Shiny, Tableau, Power BI, Git, GitHub, Docker, Apache Airﬂow, AWS, Cloud Computing, MongoDB, PostgreSQL, MySQL
+- Tools & Technologies: Plotly, Dash, Shiny, Tableau, Power BI, NetSuite, Git, GitHub, Docker, Apache Airﬂow, AWS, Cloud Computing, MongoDB, PostgreSQL, MySQL
 
 🌱 **Hobbies:**
 - I enjoy playing tennis 🎾 and watching the NBA 🏀 and the World Cup ⚽.
