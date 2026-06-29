@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/iris-luo/" rel="nofollow noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width=20 height=auto>
 </a>
-<a href="mailto:iris0614ubc@gmail.com" rel="nofollow noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/800px-Circle-icons-mail.svg.png" alt="mail" width=20 height=auto>
-</a>
 <a href="https://github.com/iris0614" rel="nofollow noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width=20 height=auto>
 </a>
